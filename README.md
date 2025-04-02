@@ -21,13 +21,13 @@ A web-based daily planner inspired by the **AREA BOOK** used in The Church of Je
 ## 📂 Project Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/daily-planner.git
+git clone https://github.com/Mtakudzwa/daily_planner.git
 cd daily-planner
 ```
 
 ### 2️⃣ Install Dependencies
 ```bash
-yarn install  # or npm install
+pnpm install
 ```
 
 ### 3️⃣ Setup Firebase
